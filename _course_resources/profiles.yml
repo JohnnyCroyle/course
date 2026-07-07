@@ -18,4 +18,3 @@ airbnb:
       private_key_path: /workspaces/course/airbnb/rsa_key.p8
 
   target: dev
-`
